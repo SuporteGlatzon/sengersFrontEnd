@@ -1,0 +1,246 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  height: 100%;
+  min-height: 100%;
+}
+
+body {
+  color: #44403c;
+  height: 100%;
+}
+
+.custom-container {
+  @apply container mx-auto px-2;
+}
+
+@media only screen and (max-width: 600px) {
+  .custom-container-slider {
+    .swiper-slide-active {
+      padding-left: 20px !important;
+    }
+
+    .swiper-opportunities {
+      padding-left: 10px;
+    }
+
+    .swiper-opportunities:last-child {
+      padding-right: 20px;
+    }
+  }
+}
+
+.custom-box {
+  @apply p-10 bg-white rounded-2xl items-center gap-5 flex;
+}
+
+.custom-box-small {
+  @apply p-5 bg-white rounded-2xl items-center gap-5 flex;
+}
+
+.jodit-container,
+.jodit.jodit_theme_default.jodit-wysiwyg_mode {
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+}
+
+.jodit-ui-group.jodit-ui-group_line_true.jodit-ui-group_size_middle {
+  background-color: white;
+}
+
+.jodit-toolbar__box {
+  border-bottom: 0 !important;
+}
+
+.jodit-workplace ul {
+  list-style: disc;
+  padding: 16px;
+}
+
+.jodit-workplace ol {
+  list-style: decimal;
+  padding: 16px;
+}
+
+.custom-file-upload {
+  display: inline-block;
+  padding: 6px 12px 20px 12px;
+  cursor: pointer;
+}
+
+.checkbox-wrapper-23 *,
+.checkbox-wrapper-23 *:after,
+.checkbox-wrapper-23 *:before {
+  box-sizing: border-box;
+}
+
+.checkbox-wrapper-23 input {
+  position: absolute;
+  opacity: 0;
+}
+
+.checkbox-wrapper-23 input:checked + label svg path {
+  stroke-dashoffset: 0;
+}
+
+.checkbox-wrapper-23 input:focus + label {
+  transform: scale(1.03);
+}
+
+.checkbox-wrapper-23 input + label {
+  display: block;
+  border: 2px solid #333;
+  width: var(--size);
+  height: var(--size);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.checkbox-wrapper-23 input + label:active {
+  transform: scale(1.05);
+  border-radius: 12px;
+}
+
+.checkbox-wrapper-23 input + label svg {
+  pointer-events: none;
+  padding: 10%;
+}
+
+.checkbox-wrapper-23 input + label svg path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 4px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 100;
+  stroke-dashoffset: 101;
+  transition: all 250ms cubic-bezier(1, 0, 0.37, 0.91);
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: '';
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+input:checked + .slider {
+  background-color: #2196f3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196f3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.ellipsis {
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* Limit the number of lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.hamburger {
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+.page-politica h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.page-politica ul {
+  list-style: circle;
+  list-style-type: disc;
+  margin-left: 1rem;
+}
+
+.page-politica p {
+  margin-bottom: 1rem;
+}
+
+.page-termos-uso h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.page-termos-uso ul {
+  list-style: circle;
+  list-style-type: disc;
+  margin-left: 1rem;
+}
+
+.page-termos-uso p {
+  margin-bottom: 1rem;
+}
+
+.loader {
+  width: 50px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: 8px solid;
+  border-color: #000 #0000;
+  animation: l1 1s infinite;
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
+}
+@keyframes l1 {
+  to {
+    transform: rotate(0.5turn);
+  }
+}

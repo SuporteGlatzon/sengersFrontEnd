@@ -1,0 +1,713 @@
+{
+  "opportunity-list": [
+    {
+      "id": "",
+      "company": "",
+      "state": {
+        "id": 11,
+        "value": "Rondônia",
+        "label": "Rondônia"
+      },
+      "phone": "(11) 11111-1111",
+      "city": {
+        "id": 1100015,
+        "value": "Alta Floresta D'Oeste",
+        "label": "Alta Floresta D'Oeste"
+      },
+      "title": "",
+      "description": "1123",
+      "date": "",
+      "salary": "",
+      "tags": {
+        "opportunityType": {
+          "id": "1",
+          "value": "Estágio",
+          "label": "Estágio"
+        },
+        "occupationArea": {
+          "id": "1",
+          "value": "Engenharia",
+          "label": "Engenharia"
+        }
+      },
+      "publishedBy": {
+        "id": "",
+        "image": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "description": "",
+        "fullDescription": ""
+      },
+      "isOpportunityActive": false,
+      "fullDescription": "<p>123</p>",
+      "canditades": [],
+      "icon": "",
+      "status": {
+        "code": "warning",
+        "message": "Aguardando aprovação"
+      }
+    },
+    {
+      "id": "",
+      "company": "",
+      "state": {
+        "id": 11,
+        "value": "Rondônia",
+        "label": "Rondônia"
+      },
+      "phone": "(11) 11111-1111",
+      "city": {
+        "id": 1100015,
+        "value": "Alta Floresta D'Oeste",
+        "label": "Alta Floresta D'Oeste"
+      },
+      "title": "",
+      "description": "1123",
+      "date": "18/Mar",
+      "salary": "",
+      "tags": {
+        "opportunityType": {
+          "id": "1",
+          "value": "Estágio",
+          "label": "Estágio"
+        },
+        "occupationArea": {
+          "id": "1",
+          "value": "Engenharia",
+          "label": "Engenharia"
+        }
+      },
+      "publishedBy": {
+        "id": "",
+        "image": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "description": "",
+        "fullDescription": ""
+      },
+      "isOpportunityActive": false,
+      "fullDescription": "<p>123</p>",
+      "canditades": [],
+      "icon": "",
+      "status": {
+        "code": "warning",
+        "message": "Aguardando aprovação"
+      }
+    },
+    {
+      "id": "6789",
+      "company": "2",
+      "state": {
+        "id": 11,
+        "value": "Rondônia",
+        "label": "Rondônia"
+      },
+      "phone": "(11) 11111-1111",
+      "city": {
+        "id": 1100015,
+        "value": "Alta Floresta D'Oeste",
+        "label": "Alta Floresta D'Oeste"
+      },
+      "title": "1",
+      "description": "1",
+      "date": "",
+      "salary": "",
+      "tags": {
+        "opportunityType": {
+          "id": "1",
+          "value": "Estágio",
+          "label": "Estágio"
+        },
+        "occupationArea": {
+          "id": "1",
+          "value": "Engenharia",
+          "label": "Engenharia"
+        }
+      },
+      "publishedBy": {
+        "id": "",
+        "image": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "description": "",
+        "fullDescription": ""
+      },
+      "isOpportunityActive": false,
+      "fullDescription": "<p>213</p>",
+      "canditades": [],
+      "icon": "",
+      "status": {
+        "code": "warning",
+        "message": "Aguardando aprovação"
+      }
+    },
+    {
+      "id": "70e2",
+      "company": "empresa",
+      "state": {
+        "id": 11,
+        "value": "Rondônia",
+        "label": "Rondônia"
+      },
+      "phone": "(11) 11111-1111",
+      "city": {
+        "id": 1100015,
+        "value": "Alta Floresta D'Oeste",
+        "label": "Alta Floresta D'Oeste"
+      },
+      "title": "arq",
+      "description": "1small",
+      "date": "18/Mar",
+      "salary": "112213",
+      "tags": {
+        "opportunityType": {
+          "id": "1",
+          "value": "Estágio",
+          "label": "Estágio"
+        },
+        "occupationArea": {
+          "id": "1",
+          "value": "Engenharia",
+          "label": "Engenharia"
+        }
+      },
+      "publishedBy": {
+        "id": "",
+        "image": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "description": "",
+        "fullDescription": ""
+      },
+      "isOpportunityActive": true,
+      "fullDescription": "<p>213<strong>bbbasdsdbvsd</strong></p>",
+      "canditades": [],
+      "icon": "",
+      "status": {
+        "code": "warning",
+        "message": "Aguardando aprovação"
+      }
+    },
+    {
+      "id": "41a2",
+      "company": "",
+      "state": {
+        "id": 11,
+        "value": "Rondônia",
+        "label": "Rondônia"
+      },
+      "phone": "(11) 21111-1111",
+      "city": {
+        "id": 1100015,
+        "value": "Alta Floresta D'Oeste",
+        "label": "Alta Floresta D'Oeste"
+      },
+      "title": "",
+      "description": "1",
+      "date": "",
+      "salary": "11",
+      "tags": {
+        "opportunityType": {
+          "id": "1",
+          "value": "Estágio",
+          "label": "Estágio"
+        },
+        "occupationArea": {
+          "id": "1",
+          "value": "Engenharia",
+          "label": "Engenharia"
+        }
+      },
+      "publishedBy": {
+        "id": "2154",
+        "name": "Carlos Eduardo Kasper",
+        "city": "",
+        "state": "",
+        "description": "",
+        "fullDescription": ""
+      },
+      "isOpportunityActive": false,
+      "fullDescription": "<p>123</p>",
+      "canditades": [],
+      "icon": "",
+      "status": {
+        "code": "warning",
+        "message": "Aguardando aprovação"
+      }
+    },
+    {
+      "id": "f16a",
+      "company": "Fundasolos",
+      "state": {
+        "id": 11,
+        "value": "Rondônia",
+        "label": "Rondônia"
+      },
+      "phone": "(11) 11111-1111",
+      "city": {
+        "id": 1100015,
+        "value": "Alta Floresta D'Oeste",
+        "label": "Alta Floresta D'Oeste"
+      },
+      "title": "Estágio em Design",
+      "description": "Lorem ipsum texto básico",
+      "date": "",
+      "salary": "1200",
+      "tags": {
+        "opportunityType": {
+          "id": "1",
+          "value": "Estágio",
+          "label": "Estágio"
+        },
+        "occupationArea": {
+          "id": "1",
+          "value": "Engenharia",
+          "label": "Engenharia"
+        }
+      },
+      "publishedBy": {
+        "id": "6c58",
+        "name": "Carlos Eduardo Kasper",
+        "city": "",
+        "state": "",
+        "description": "",
+        "fullDescription": ""
+      },
+      "isOpportunityActive": true,
+      "fullDescription": "<p>lorem ipsum texto completo</p>",
+      "canditades": [],
+      "icon": "",
+      "status": {
+        "code": "warning",
+        "message": "Aguardando aprovação"
+      }
+    },
+    {
+      "id": "81e8",
+      "company": "Nome empresa",
+      "state": {
+        "id": 11,
+        "value": "Rondônia",
+        "label": "Rondônia"
+      },
+      "phone": "(11) 11111-1111",
+      "city": {
+        "id": 1100015,
+        "value": "Alta Floresta D'Oeste",
+        "label": "Alta Floresta D'Oeste"
+      },
+      "title": "Título op",
+      "description": "Descrição Descrição Descrição Descrição Descrição ",
+      "date": "",
+      "salary": "12333",
+      "tags": {
+        "opportunityType": {
+          "id": "1",
+          "value": "Estágio",
+          "label": "Estágio"
+        },
+        "occupationArea": {
+          "id": "1",
+          "value": "Engenharia",
+          "label": "Engenharia"
+        }
+      },
+      "publishedBy": {
+        "id": "6c58",
+        "name": "Carlos Eduardo Kasper",
+        "city": "",
+        "state": "",
+        "description": "",
+        "fullDescription": ""
+      },
+      "isOpportunityActive": true,
+      "fullDescription": "<p><strong>Descrição completa&nbsp;</strong></p><p><strong>Descrição completa&nbsp;</strong></p><p><strong>Descrição completa&nbsp;</strong></p><p><strong>Descrição completa&nbsp;</strong></p><p><strong>Descrição completa&nbsp;</strong></p>",
+      "canditades": [],
+      "icon": "",
+      "status": {
+        "code": "warning",
+        "message": "Aguardando aprovação"
+      }
+    },
+    {
+      "id": "4826",
+      "company": "",
+      "state": {
+        "id": 12,
+        "value": "Acre",
+        "label": "Acre"
+      },
+      "phone": "(12) 31231-2312",
+      "city": {
+        "id": 1200013,
+        "value": "Acrelândia",
+        "label": "Acrelândia"
+      },
+      "title": "",
+      "description": "123123",
+      "date": "",
+      "salary": "",
+      "tags": {
+        "opportunityType": {
+          "id": "1",
+          "value": "Estágio",
+          "label": "Estágio"
+        },
+        "occupationArea": {
+          "id": "1",
+          "value": "Engenharia",
+          "label": "Engenharia"
+        }
+      },
+      "publishedBy": {
+        "id": "6c58",
+        "name": "Carlos Eduardo Kasper",
+        "city": "",
+        "state": "",
+        "description": "",
+        "fullDescription": ""
+      },
+      "isOpportunityActive": false,
+      "fullDescription": "<p>123123</p>",
+      "canditades": [],
+      "icon": "",
+      "status": {
+        "code": "warning",
+        "message": "Aguardando aprovação"
+      }
+    },
+    {
+      "id": "5e5f",
+      "company": "",
+      "state": {
+        "id": 12,
+        "value": "Acre",
+        "label": "Acre"
+      },
+      "phone": "(12) 31231-2312",
+      "city": {
+        "id": 1200013,
+        "value": "Acrelândia",
+        "label": "Acrelândia"
+      },
+      "title": "",
+      "description": "123123",
+      "date": "19/Mar",
+      "salary": "",
+      "tags": {
+        "opportunityType": {
+          "id": "1",
+          "value": "Estágio",
+          "label": "Estágio"
+        },
+        "occupationArea": {
+          "id": "1",
+          "value": "Engenharia",
+          "label": "Engenharia"
+        }
+      },
+      "publishedBy": {
+        "id": "6c58",
+        "name": "Carlos Eduardo Kasper",
+        "city": "",
+        "state": "",
+        "description": "",
+        "fullDescription": ""
+      },
+      "isOpportunityActive": false,
+      "fullDescription": "<p>123123</p>",
+      "canditades": [],
+      "icon": "",
+      "status": {
+        "code": "warning",
+        "message": "Aguardando aprovação"
+      }
+    },
+    {
+      "id": "c136",
+      "company": "nome empresa",
+      "state": {
+        "id": 12,
+        "value": "Acre",
+        "label": "Acre"
+      },
+      "phone": "(12) 31231-2312",
+      "city": {
+        "id": 1200013,
+        "value": "Acrelândia",
+        "label": "Acrelândia"
+      },
+      "title": "Título op",
+      "description": "123123",
+      "date": "19/Mar",
+      "salary": "12341234",
+      "tags": {
+        "opportunityType": {
+          "id": "1",
+          "value": "Estágio",
+          "label": "Estágio"
+        },
+        "occupationArea": {
+          "id": "1",
+          "value": "Engenharia",
+          "label": "Engenharia"
+        }
+      },
+      "publishedBy": {
+        "id": "6c58",
+        "name": "Carlos Eduardo Kasper",
+        "city": "",
+        "state": "",
+        "description": "",
+        "fullDescription": ""
+      },
+      "isOpportunityActive": true,
+      "fullDescription": "<p>oie tudo bom <br/> abc <b> bold </b></p>",
+      "canditades": [],
+      "icon": "",
+      "status": {
+        "code": "warning",
+        "message": "Aguardando aprovação"
+      }
+    },
+    {
+      "id": "bcb8",
+      "company": "Empresa teste 2",
+      "state": {
+        "id": 11,
+        "value": "Rondônia",
+        "label": "Rondônia"
+      },
+      "phone": "(11) 11111-1111",
+      "city": {
+        "id": 1100015,
+        "value": "Alta Floresta D'Oeste",
+        "label": "Alta Floresta D'Oeste"
+      },
+      "title": "Teste 2",
+      "description": "Descrição  base para aparecer no card pequeno",
+      "date": "19/Mar",
+      "salary": "1111",
+      "tags": {
+        "opportunityType": {
+          "id": "1",
+          "value": "Estágio",
+          "label": "Estágio"
+        },
+        "occupationArea": {
+          "id": "2",
+          "value": "Arquitetura",
+          "label": "Arquitetura"
+        }
+      },
+      "publishedBy": {
+        "id": "6c58",
+        "name": "Carlos Eduardo Kasper",
+        "city": "Alta Floresta D'Oeste",
+        "state": "Rondônia",
+        "description": "Descrição base",
+        "fullDescription": "<p><strong>Descrição completa</strong></p>"
+      },
+      "isOpportunityActive": true,
+      "fullDescription": "<p><strong>Descrição  base para aparecer na pagina da oportunidade</strong></p>",
+      "canditades": [
+        {
+          "id": "",
+          "name": "Carlos Eduardo Kasper",
+          "image": "https://avatars.githubusercontent.com/u/52386569?v=4"
+        }
+      ],
+      "icon": "",
+      "status": {
+        "code": "warning",
+        "message": "Aguardando aprovação"
+      }
+    }
+  ],
+  "person": [
+    {
+      "id": "a2bc",
+      "name": "Carlos Eduardo Kasper",
+      "phone": "(51) 99386-0358",
+      "email": "bemaisbrasil0@gmail.com",
+      "image": "",
+      "city": {
+        "id": 1200013,
+        "value": "Acrelândia",
+        "label": "Acrelândia"
+      },
+      "state": {
+        "id": 12,
+        "value": "Acre",
+        "label": "Acre"
+      },
+      "description": "a",
+      "fullDescription": "<p>bb</p>",
+      "address": "123",
+      "complement": "1233",
+      "links": {
+        "site": "1",
+        "twitter": "2",
+        "linkedin": "3",
+        "instagram": "4"
+      },
+      "education": [
+        {
+          "id": "1",
+          "curso": "a",
+          "instituicao": "b",
+          "conclusionDate": "1999-01-21",
+          "situacaoAtual": "Cursando",
+          "observacao": "abc"
+        }
+      ],
+      "bannerProfile": "",
+      "curriculum": "",
+      "sengeAssociate": true
+    },
+    {
+      "id": "361c",
+      "name": "Carlos Eduardo Kasper",
+      "phone": "(51) 99386-0358",
+      "email": "bemaisbrasil0@gmail.com",
+      "image": "",
+      "city": {
+        "id": "",
+        "value": "",
+        "label": ""
+      },
+      "state": {
+        "id": "",
+        "value": "",
+        "label": ""
+      },
+      "description": "",
+      "fullDescription": "",
+      "address": "",
+      "complement": "",
+      "links": {},
+      "education": [],
+      "bannerProfile": "",
+      "curriculum": "",
+      "sengeAssociate": false
+    },
+    {
+      "id": "2154",
+      "name": "Carlos Eduardo Kasper",
+      "phone": "(51) 99386-0358",
+      "email": "bemaisbrasil0@gmail.com",
+      "image": "",
+      "city": {
+        "id": 1100015,
+        "value": "Alta Floresta D'Oeste",
+        "label": "Alta Floresta D'Oeste"
+      },
+      "state": {
+        "id": 11,
+        "value": "Rondônia",
+        "label": "Rondônia"
+      },
+      "description": "oi tudo",
+      "fullDescription": "<p>12341234</p>",
+      "address": "123",
+      "complement": "1222",
+      "links": {},
+      "education": [
+        {
+          "id": "1",
+          "curso": "1234",
+          "instituicao": "1234",
+          "conclusionDate": "0004-03-12",
+          "situacaoAtual": "Cursando",
+          "observacao": "1234"
+        }
+      ],
+      "bannerProfile": "",
+      "curriculum": "",
+      "sengeAssociate": true
+    },
+    {
+      "id": "6c58",
+      "name": "Carlos Eduardo Kasper",
+      "phone": "(51) 99386-0358",
+      "email": "bemaisbrasil0@gmail.com",
+      "image": "",
+      "city": {
+        "id": 1100015,
+        "value": "Alta Floresta D'Oeste",
+        "label": "Alta Floresta D'Oeste"
+      },
+      "state": {
+        "id": 11,
+        "value": "Rondônia",
+        "label": "Rondônia"
+      },
+      "description": "Descrição base",
+      "fullDescription": "<p><strong>Descrição completa</strong></p>",
+      "address": "Teste",
+      "complement": "teste2",
+      "links": {},
+      "education": [],
+      "bannerProfile": "",
+      "curriculum": "",
+      "sengeAssociate": false
+    }
+  ],
+  "home": {
+    "banner": {
+      "image1": "1",
+      "image2": "1",
+      "title": "Conexões Engenharia",
+      "subtitle": "O primeiro portal de oportunidades profissionais e de qualificação direcionado para engenheiros e arquitetos.",
+      "buttonText": "Associe-se"
+    },
+    "associate": {
+      "orangeText": "Vantagens",
+      "title": "Seja associado do SENGE RS",
+      "subtitle": "Ao se associar ao SENGE RS, você desfruta de uma série de benefícios preparados espacialmente para você que é da área da Engenharia.",
+      "rightTitle": "Conheça as vantagens:",
+      "advantages": [
+        "Plano de saúde",
+        "Desconto nos cursos de qualificação"
+      ],
+      "buttonText": "Associe-se"
+    },
+    "bookRoom": {
+      "orangeText": "Você sabia que o SENGE RS tem salas para locação?",
+      "title": "Reserve agora mesmo a sua sala",
+      "room": [
+        "Wi-fi de alta velocidade",
+        "Materiais de escritório"
+      ],
+      "buttonText": "Reservar sala"
+    }
+  },
+  "opportunityTypes": [
+    {
+      "id": "1",
+      "value": "Estágio",
+      "label": "Estágio"
+    },
+    {
+      "id": "2",
+      "value": "CLT",
+      "label": "CLT"
+    }
+  ],
+  "occupationArea": [
+    {
+      "id": "1",
+      "value": "Engenharia",
+      "label": "Engenharia"
+    },
+    {
+      "id": "2",
+      "value": "Arquitetura",
+      "label": "Arquitetura"
+    }
+  ]
+}
