@@ -4,8 +4,8 @@ import { Toaster } from 'react-hot-toast';
 import 'react-loading-skeleton/dist/skeleton.css';
 import '../assets/globals.css';
 
-import { SessionManager } from './(auth)/SessionManager';
 import AuthProvider from '../components/auth-provider';
+import { SessionManager } from './(auth)/SessionManager';
 
 const darkenGrotesque = Space_Grotesk({ subsets: ['latin'] });
 

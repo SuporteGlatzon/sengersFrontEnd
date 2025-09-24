@@ -1,7 +1,5 @@
 'use client';
 import { BannerProps } from '@/app/type/banner.type';
-import { getVersionedImageUrl } from '@/utils/version-image';
-import Image from 'next/image';
 import 'swiper/css';
 import 'swiper/css/effect-fade';
 import { Autoplay, EffectFade, Navigation } from 'swiper/modules';
@@ -49,13 +47,13 @@ export const Banner = ({ banners }: Props) => {
           return (
             <SwiperSlide key={index} className='py-4'>
               <div className='relative rounded-2xl md:rounded-[42px] overflow-hidden'>
-                <Image
+                {/* <Image
                   src={getVersionedImageUrl(banner.image)}
                   width={1920}
                   height={1080}
                   alt={banner.title}
                   className='aspect-[9/16] md:aspect-square lg:aspect-[1280/570] object-cover rounded-lg overflow-hidden'
-                />
+                /> */}
                 <div className='absolute z-50 bottom-0 left-0 h-full w-full text-white p-8 md:p-20 flex justify-end flex-col'>
                   <div className='max-w-xl flex flex-col gap-5'>
                     <h1 className='text-2xl lg:text-7xl font-bold'>

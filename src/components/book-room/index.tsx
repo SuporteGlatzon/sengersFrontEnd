@@ -2,7 +2,6 @@
 
 import { RoomProps } from '@/app/type/rooms.type';
 import check from '@/assets/check.svg';
-import { getVersionedImageUrl } from '@/utils/version-image';
 import Image from 'next/image';
 import Button from '../button';
 
@@ -21,19 +20,19 @@ export function BookRoom({ data, isReverse }: Props) {
               isReverse ? 'flex-row-reverse' : ''
             }`}
           >
-            <div className='w-full'>
+            {/* <div className='w-full'>
               {item.image && (
                 <div className='w-full'>
                   <Image
                     src={getVersionedImageUrl(item.image)}
-                    alt='Description of the image'
+                    alt='Description of the dwadsge'
                     className='rounded-3xl mb-10'
                     width={1024}
                     height={1024}
                   />
                 </div>
               )}
-            </div>
+            </div> */}
 
             <div className='w-full flex justify-center flex-col p-10'>
               <span className='pb-2 text-secondary font-bold text-base max-[600px]:pt-[20px]'>
