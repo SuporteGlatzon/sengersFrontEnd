@@ -35,7 +35,7 @@ export function BookRoom({ data, isReverse }: Props) {
               )}
             </div>
 
-            <div className='w-full flex justify-center flex-col p-10'>
+            <div className='w-full flex justify-center flex-col p-10 bg-red-500'>
               <span className='pb-2 text-secondary font-bold text-base max-[600px]:pt-[20px]'>
                 {item.orange_text}
               </span>
