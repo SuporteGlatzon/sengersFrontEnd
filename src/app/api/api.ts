@@ -12,7 +12,7 @@ const isProtectedRoute = (url: string) => {
 };
 
 export const api: AxiosInstance = axios.create({
-  baseURL: 'http://127.0.0.1:8001/api', // <<<<<< agora chama o proxy e não dá CORS
+  baseURL: 'http://127.0.0.1:8000/api', // <<<<<< agora chama o proxy e não dá CORS
   withCredentials: true,
   headers: {
     Accept: 'application/json',
